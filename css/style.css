@@ -2,3 +2,11 @@ body {
     margin: 0;
     background-color: aquamarine;
 }
+
+p {
+    color: brown;
+}
+
+h1 {
+    font-size: 50px;
+}
